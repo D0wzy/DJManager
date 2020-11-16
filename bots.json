@@ -1,0 +1,93 @@
+{
+   "radio": [{
+         "type": "SkyRock",
+         "token": "SUPER SECRET TOKEN HERE",
+         "enabled": true,
+         "locked": true,
+         "channel": "760677027753230357",
+         "flux": "http://icecast.skyrock.net/s/natio_mp3_128k",
+         "id": "755893833761423543",
+         "startedAt": 1600745434188,
+         "ping": 109
+      },
+      {
+         "type": "Virgin Radio",
+         "token": "SUPER SECRET TOKEN HERE",
+         "enabled": true,
+         "locked": true,
+         "channel": "760676853781495828",
+         "flux": "http://ais-live.cloud-services.paris:8000/virgin.mp3",
+         "id": "755885283945218190",
+         "startedAt": 1600745434051,
+         "ping": 106
+      },
+      {
+         "type": "NRJ",
+         "token": "SUPER SECRET TOKEN HERE",
+         "enabled": true,
+         "locked": true,
+         "channel": "760676827101528074",
+         "flux": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios",
+         "id": "755885830052249650",
+         "startedAt": 1600745439229,
+         "ping": 108
+      },
+      {
+         "type": "NRJ US",
+         "token": "SUPER SECRET TOKEN HERE",
+         "enabled": true,
+         "channel": "760676961868972073",
+         "flux": "http://cdn.nrjaudio.fm/adwz1/at/55641/mp3_128.mp3",
+         "id": "755886007492018339",
+         "ping": 105,
+         "startedAt": 1600745439258,
+         "locked": true
+      },
+      {
+         "type": "Mouv",
+         "token": "SUPER SECRET TOKEN HERE",
+         "enabled": true,
+         "locked": true,
+         "channel": "755883967336546315",
+         "flux": "http://direct.mouv.fr/live/mouv-midfi.mp3",
+         "id": "755889137621401651",
+         "startedAt": 1600745444077,
+         "ping": 105
+      },
+      {
+         "type": "FunRadio",
+         "token": "SUPER SECRET TOKEN HERE",
+         "enabled": true,
+         "locked": true,
+         "channel": "760676897305788416",
+         "flux": "http://icecast.funradio.fr/fun-1-44-128",
+         "id": "755890188546474055",
+         "startedAt": 1600745444093,
+         "ping": 107
+      }
+   ],
+   "filters": {
+      "bassboost": "Bassboost",
+      "8D": "8D",
+      "vaporwave": "Vaporwave",
+      "nightcore": "Nightcore",
+      "phaser": "Phaser",
+      "tremolo": "Tremolo",
+      "vibrato": "Vibrato",
+      "reverse": "Reverse",
+      "treble": "Treble",
+      "normalizer": "Normalizer",
+      "surrounding": "Surrounding",
+      "pulsator": "Pulsator",
+      "subboost": "Subboost",
+      "karaoke": "Karaoke",
+      "flanger": "Flanger",
+      "gate": "Gate",
+      "haas": "Haas",
+      "mcompand": "Mcompand"
+   },
+   "music": [{
+      "token": "SUPER SECRET TOKEN HERE",
+      "enabled": true
+   }]
+}
