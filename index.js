@@ -40,7 +40,7 @@ async function timeout() {
 async function timeouts() {
     setTimeout(async () => {
         try {
-            client.user.setActivity(`💎・Bulgari | ${client.config.prefix}help`);
+            client.user.setActivity(`💎・DJ | ${client.config.prefix}help`);
         } catch (error) {
             return
         }
